@@ -13,6 +13,7 @@ download
 *slow-spec.ts
 dist
 lib
+src
 .vscode
 .cache
 */test
