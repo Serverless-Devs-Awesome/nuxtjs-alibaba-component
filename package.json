@@ -1,6 +1,6 @@
 {
   "name": "@serverless-devs/nuxtjs-alibaba",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "Serverless Devs Tool Nuxt.JS Framework Component For Alibaba Cloud",
   "keywords": [
     "Serverless",
@@ -9,7 +9,7 @@
     "Serverless-Tool",
     "Nuxt.JS"
   ],
-  "homepage": "https://www.serverlessfans.com",
+  "homepage": "https://www.serverless-devs.com",
   "author": "Serverless-Devs",
   "contributors": [
     "Shoushuai Wang",
