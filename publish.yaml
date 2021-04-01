@@ -1,8 +1,8 @@
 Type: Component
 Name: nuxtjs
 Provider:
-  - Alibaba
-Version: 0.0.34
+  - 阿里云
+Version: 0.0.35
 Description: 阿里云Nuxt.JS组件，帮助您快速部署Nuxt.JS项目
 HomePage: https://www.aliyun.com/
 Tags:
